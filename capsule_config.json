@@ -1,0 +1,10 @@
+{
+  "capsule_id": "solodev.td.base",
+  "name": "SoloDev Capsule Engine",
+  "version": "0.1.0",
+  "description": "Autonomous runtime engine capsule for tower defense synthesis.",
+  "entry": "capsule_payload/engine_core.js",
+  "runtime": "web",
+  "targets": ["HTML5", "EXE", "CLI"],
+  "generator": "AGCESS"
+}
